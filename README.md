@@ -23,6 +23,6 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 - Semantic HTML5 markup
 - CSS custom properties 
-- Flexbox, CSS Grid
+- Flexbox
 - Mobile-first workflow
 - JavaScript
